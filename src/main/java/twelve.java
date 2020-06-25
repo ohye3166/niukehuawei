@@ -4,7 +4,7 @@ import java.util.Scanner;
  * @author chenzongyi
  * @create 2020-06-25-19:13
  */
-public class Main {
+public class twelve {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         while(sc.hasNext()){
