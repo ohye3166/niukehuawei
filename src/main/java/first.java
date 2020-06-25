@@ -25,6 +25,7 @@ public class first{
             int b = sc.nextInt();
             int num = a * b / getResult(a,b);
             System.out.println(num);
+            System.out.println(num);
         }
     }
 }
